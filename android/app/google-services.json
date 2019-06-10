@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "714917920402",
+    "firebase_url": "https://poll-a12e5.firebaseio.com",
+    "project_id": "poll-a12e5",
+    "storage_bucket": "poll-a12e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714917920402:android:9ba28a81bf8aff0f",
+        "android_client_info": {
+          "package_name": "com.cadrac.polling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714917920402-7n8uf3ffjg73tmdl60r9punno9a9fqi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOu_wo7_yhyBZGoH7GToXldRKLsQ91LXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714917920402-7n8uf3ffjg73tmdl60r9punno9a9fqi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
